@@ -17,3 +17,7 @@ int div()
 int min()
 {
 }
+
+int shift()
+{
+}
