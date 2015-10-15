@@ -5,8 +5,11 @@
 int multi()
 {
 }
-삭제 되도 되는 코멘트
 
 int add()
+{
+}
+
+int div()
 {
 }
