@@ -13,3 +13,7 @@ int add()
 int div()
 {
 }
+
+int min()
+{
+}
