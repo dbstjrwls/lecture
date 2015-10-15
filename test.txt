@@ -21,3 +21,7 @@ int min()
 int shift()
 {
 }
+
+int big()
+{
+}
